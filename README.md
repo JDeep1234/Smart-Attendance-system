@@ -10,8 +10,7 @@ This repository contains the code for a Face Recognition Based Attendance System
 - View attendance records with student names, dates, and times.
 - Secure password protection for sensitive operations.
 
-## Demo
-[Link to Live Demo](#)
+
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your_username/face-recognition-attendance-system.git`
